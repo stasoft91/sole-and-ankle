@@ -76,7 +76,7 @@ const NewFlag = styled(Flag)`
 const Link = styled.a`
   text-decoration: none;
   color: inherit;
-  flex: 0 0 340px;
+  flex: 1 0 340px;
 `;
 
 const Wrapper = styled.article`

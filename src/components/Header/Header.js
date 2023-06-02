@@ -45,7 +45,7 @@ const Nav = styled.nav`
   gap: 48px;
   flex: 1 1 0;
   justify-content: center;
-  padding: 0 8px;
+  margin: 0 48px;
 `;
 
 const NavLink = styled.a`
